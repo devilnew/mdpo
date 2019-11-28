@@ -1,8 +1,5 @@
 hi this is 1st
 hi this is 2
-hi this is 3
-hi this is 4
-hi this is 5
 
 
 
